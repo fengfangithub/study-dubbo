@@ -5,7 +5,7 @@
 
     <parent>
         <artifactId>dubbo-demo1</artifactId>
-        <groupId>com.fengfan</groupId>
+        <groupId>cn.fengfan</groupId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath/>
     </parent>

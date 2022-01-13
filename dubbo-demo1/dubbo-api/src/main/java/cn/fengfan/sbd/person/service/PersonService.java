@@ -1,6 +1,6 @@
-package com.fengfan.sbd.person.service;
+package cn.fengfan.sbd.person.service;
 
-import com.fengfan.sbd.person.dto.PersonDTO;
+import cn.fengfan.sbd.person.dto.PersonDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PostMapping;
 

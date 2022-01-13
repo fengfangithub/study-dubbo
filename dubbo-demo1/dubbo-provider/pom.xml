@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>dubbo-demo1</artifactId>
-        <groupId>com.fengfan</groupId>
+        <groupId>cn.fengfan</groupId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath/>
     </parent>
@@ -21,7 +21,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.fengfan</groupId>
+            <groupId>cn.fengfan</groupId>
             <artifactId>dubbo-api</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>

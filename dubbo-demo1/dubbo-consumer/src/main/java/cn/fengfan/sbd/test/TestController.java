@@ -1,7 +1,7 @@
-package com.fengfan.sbd.test;
+package cn.fengfan.sbd.test;
 
-import com.fengfan.sbd.person.dto.PersonDTO;
-import com.fengfan.sbd.person.service.PersonService;
+import cn.fengfan.sbd.person.dto.PersonDTO;
+import cn.fengfan.sbd.person.service.PersonService;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

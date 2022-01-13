@@ -1,4 +1,4 @@
-package com.fengfan.sbd.person.dto;
+package cn.fengfan.sbd.person.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
