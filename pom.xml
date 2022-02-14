@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.fengfan</groupId>
-    <artifactId>study-springboot-dubbo</artifactId>
+    <artifactId>study-dubbo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>study-springboot-dubbo</name>
+    <name>study-dubbo</name>
     <description>Demo project for Spring Boot</description>
     <packaging>pom</packaging>
 
@@ -16,7 +16,7 @@
     </properties>
 
     <modules>
-        <module>dubbo-demo1</module>
+        <module>study-dubbo-introduction</module>
     </modules>
 
 </project>
